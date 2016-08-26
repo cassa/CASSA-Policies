@@ -5,4 +5,5 @@ This is not a comprehensive list, but instead a set of guidelines to which you s
 * Present yourself in public professionally
 * No offensive behavior
 * Be respectful
+
 This code of conduct is to be enforced at the discretion of the executive committee. Each incident shall be resolved on a case by case basis and resolution will be handed out at the discretion of the executive committee. 
